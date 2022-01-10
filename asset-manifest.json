@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stop-wait/static/css/main.6f9539ef.css",
+    "main.js": "/stop-wait/static/js/main.a4a1a6f3.js",
+    "index.html": "/stop-wait/index.html",
+    "main.6f9539ef.css.map": "/stop-wait/static/css/main.6f9539ef.css.map",
+    "main.a4a1a6f3.js.map": "/stop-wait/static/js/main.a4a1a6f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9539ef.css",
+    "static/js/main.a4a1a6f3.js"
+  ]
+}
